@@ -1,5 +1,7 @@
 # Menu--Hover-Effects
 
+Makes your website look neat.
+
 *Try me out:  👇*
 
 ![Screenshot (122)](https://user-images.githubusercontent.com/62172250/170593648-4bf094a5-7207-404f-b313-11aa9c21e0a9.png)
